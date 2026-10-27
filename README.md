@@ -4,9 +4,9 @@
   </a>
 </p>
 
-### Small, private tools that work without a server.
+### Small tools, sharp interfaces, no cloud.
 
-I build offline-first apps. No account, no tracking, no cloud required.
+Design-minded developer. I build software that stays small, fast and yours.
 
 **[Moneta](https://github.com/auroflowai-design/moneta)** is a four-column personal ledger for Android and the web. Date, particulars, debit, credit — all on your device.
 
